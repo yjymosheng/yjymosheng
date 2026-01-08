@@ -41,3 +41,10 @@ low-level software fundamentals, mainly through small projects and experiments.
 
   基于 Linux（Nixos/Arch）的开发和实验环境
 
+## Stats
+
+![yjymosheng's GitHub stats](https://github-readme-stats-sooty-ten-59.vercel.app/api?username=yjymosheng&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats-ten-inky.vercel.app/?user=yjymosheng)
+
+![Top Langs](https://github-readme-stats-sooty-ten-59.vercel.app/api/top-langs/?username=yjymosheng&hide=html,css,js)
